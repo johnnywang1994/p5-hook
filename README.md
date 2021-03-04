@@ -8,9 +8,9 @@
 Install by `CDN` or `npm/yarn`
 
 ```bash
-npm install use-p5
+npm install p5-hook
 // or
-yarn add use-p5
+yarn add p5-hook
 ```
 
 
