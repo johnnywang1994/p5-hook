@@ -24,7 +24,7 @@ yarn add p5-hook
 ```
 
 ```js
-const { useP5, createProcess, Particle } = p5Hook;
+const { useP5, createProcess, createParticle } = p5Hook;
 
 // use hook
 const { initCanvas, addProcess, startAnimate } = useP5({
