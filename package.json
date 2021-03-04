@@ -1,6 +1,6 @@
 {
   "name": "p5-hook",
-  "version": "0.0.1-test",
+  "version": "0.0.1",
   "author": "johnnywang",
   "description": "'p5-hook' is a tiny plugin which lets you create p5 canvas with structure & modulize.",
   "main": "./dist/p5-hook.min.js",
@@ -25,5 +25,11 @@
   "dependencies": {
     "p5": "^1.2.0"
   },
-  "keywords": ["p5", "canvas", "hook", "vue-p5", "vue-canvas"]
+  "keywords": [
+    "p5",
+    "canvas",
+    "hook",
+    "vue-p5",
+    "vue-canvas"
+  ]
 }
