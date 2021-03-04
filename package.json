@@ -25,6 +25,14 @@
   "dependencies": {
     "p5": "^1.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnywang1994/p5-hook.git"
+  },
+  "homepage": "https://github.com/johnnywang1994/p5-hook#readme",
+  "bugs": {
+    "url": "https://github.com/johnnywang1994/p5-hook/issues"
+  },
   "keywords": [
     "p5",
     "canvas",
