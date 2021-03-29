@@ -223,7 +223,7 @@ const particleProcess = createProcess({
   beforeSetup(p) {
     this.items = [];
     for (let i = 0; i < 10; i++) {
-      const particle = createParticle({
+      const particle = createParticle(p, {
         position: { x: 0, y: 0 },
         speed: { x: p.random(1), y: p.random(1) },
         life: 60,
@@ -272,7 +272,7 @@ const particleProcess = createProcess({
     const image = this.testImg;
     this.items = [];
     for (let i = 0; i < 10; i++) {
-      const particle = createParticle({
+      const particle = createParticle(p, {
         position: { x: 0, y: 0 },
         speed: { x: p.random(1), y: p.random(1) },
         life: 60,
