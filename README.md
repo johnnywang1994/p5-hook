@@ -2,6 +2,7 @@
 
 `p5-hook` is a tiny plugin which lets you create p5 canvas with structure & modulize.
 
+> Remember to install p5js as dependency.
 
 ## Install
 
@@ -13,6 +14,10 @@ npm install p5-hook
 yarn add p5-hook
 ```
 
+```html
+<script src="https://cdn.jsdelivr.net/npm/p5@1.3.1/lib/p5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/p5-hook@0.0.5/dist/p5-hook.min.js"></script>
+```
 
 
 ## Usage
