@@ -1,6 +1,6 @@
 {
   "name": "p5-hook",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "johnnywang",
   "description": "'p5-hook' is a tiny plugin which lets you create p5 canvas with structure & modulize.",
   "main": "./dist/p5-hook.min.js",
